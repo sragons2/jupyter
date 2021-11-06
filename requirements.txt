@@ -1,4 +1,0 @@
-emcee==3.1.1
-ptemcee==1.0.0
-pyemcee==0.2.1
-autoemcee==0.2.0
