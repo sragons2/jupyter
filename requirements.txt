@@ -1,7 +1,0 @@
-emcee==3.1.1
-ptemcee==1.0.0
-pyemcee==0.2.1
-autoemcee==0.2.0
-python3.8-emcee==3.1.1
-python3.9-emcee==3.1.1
-python-emcee==3.1.1
